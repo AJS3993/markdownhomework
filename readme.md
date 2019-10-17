@@ -1,5 +1,13 @@
 Today is October 16th 2019.
 
-# Trying out the h1 un markdown
-## This is my h2
-### strong emphasis, aka bold, with **asterisk** or _Underscores_
+# Bash Commands
+---
+## A list of bash commands for terminal
+
+- cd (change directory) Navigate to a folder
+
+- ls (list) List the contents of the current directory
+
+- mkdir (Make Directory) Creates a new directory
+
+- mv (move) Move files
